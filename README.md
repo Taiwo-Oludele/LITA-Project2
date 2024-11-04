@@ -15,7 +15,7 @@
 #### sql query8:Find the total number of active and canceled subsciptions 
 ### Capstone CusomerData Analysis: Power BI
 #### Remove Duplicate 
-### Key customer segments
+#### Key customer segments
 #### Cancellations
 #### Subscription trends
 #### slicer for interactve analysis
