@@ -3,6 +3,9 @@
 ### Capstone CustomerData Analysis: Excel (Using Pivot)
 #### Analyze customer data using pivot tables to find subscription patterns.Calculate the average subscription duration and identify the most popular subscription types :
 <img width="503" alt="Capstone_cust_pivot" src="https://github.com/user-attachments/assets/2b964b91-3cf7-4609-8a95-ea1fa96fd64f">
+:<img width="220" alt="Capstone_cust_pivot2" src="https://github.com/user-attachments/assets/f7aaa5e8-0a9d-4292-8de0-d9d86b907d1a">
+
+
 
 #### Create any other interesting reports:
 <img width="654" alt="Capstone_cust_chart" src="https://github.com/user-attachments/assets/8d07b4a3-abad-4b53-be08-ca741956d4f0">
