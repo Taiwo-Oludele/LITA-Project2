@@ -10,7 +10,9 @@
 #### Create any other interesting reports:
 <img width="654" alt="Capstone_cust_chart" src="https://github.com/user-attachments/assets/8d07b4a3-abad-4b53-be08-ca741956d4f0">
 
-#### sql query1: Retrieve total number of customer from each region
+#### sql query1: Retrieve total number of customer from each region :
+<img width="956" alt="sq_s1" src="https://github.com/user-attachments/assets/68d80c41-cd5b-41c2-a2ed-7f854a074934">
+
 #### sql query2: Find most popular subscription type by number of customer
 #### sql queru3: find customers who canceled their subscription withn 6 month
 #### sql query4: Calculate average subscription duration for all customer
