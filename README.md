@@ -22,3 +22,11 @@
 #### Build a Power BI dashboard that visualizes key customer segments, cancellations, and subscription trends. Include slicers for interactive analysis:
 <img width="718" alt="customer report_power" src="https://github.com/user-attachments/assets/819e22f3-ed6a-4d54-af85-8d1655a28797">
 
+#### Slicer filtering subscription patterns :
+
+<img width="544" alt="slicer" src="https://github.com/user-attachments/assets/1e10a406-e03d-482c-996d-6c96d4894059"> 
+
+<img width="536" alt="slicer_pre" src="https://github.com/user-attachments/assets/62cf4a97-d8e4-432b-a155-a3c2738a9130">
+
+<img width="489" alt="slicer_s" src="https://github.com/user-attachments/assets/1fe9fed7-749e-495f-8c95-91c9193fea72">
+
