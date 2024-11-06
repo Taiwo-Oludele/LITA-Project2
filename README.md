@@ -8,8 +8,7 @@
 #### Create any other interesting reports:
 <img width="654" alt="Capstone_cust_chart" src="https://github.com/user-attachments/assets/8d07b4a3-abad-4b53-be08-ca741956d4f0">
 
-### SQL:  Write and validate your queries. 
-#### Write queries to extract key insights based on the following questions
+### SQL :Write queries to extract key insights based on the following questions
 #### 1. Retrieve the total number of customers from each region : 
 <img width="956" alt="sq_s1" src="https://github.com/user-attachments/assets/1f30c11c-228f-48b2-8504-cf92304a2a68">
 
