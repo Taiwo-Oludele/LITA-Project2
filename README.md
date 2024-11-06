@@ -11,15 +11,19 @@
 <img width="654" alt="Capstone_cust_chart" src="https://github.com/user-attachments/assets/8d07b4a3-abad-4b53-be08-ca741956d4f0">
 
 #### sql query1: Retrieve total number of customer from each region :
-<img width="956" alt="sq_s1" src="https://github.com/user-attachments/assets/68d80c41-cd5b-41c2-a2ed-7f854a074934">
+<img width="956" alt="sq_s1" src="https://github.com/user-attac<img width="956" alt="sq_s1" src="https://github.com/user-attachments/assets/8fe9779c-8e82-47f5-92a2-0567104bea6d">
+hments/assets/68d80c41-cd5b-41c2-a2ed-7f854a074934">
 
-#### sql query2: Find most popular subscription type by number of customer
-#### sql queru3: find customers who canceled their subscription withn 6 month
-#### sql query4: Calculate average subscription duration for all customer
-#### sql query5: Find customers with subscrpition longer than 12 months.
-#### sql query6: Calculate total revenue by subscription type
-#### sql query7: top 3 regions by subscription cancellations
-#### sql query8:Find the total number of active and canceled subsciptions 
+### SQL:  Write and validate your queries. 
+#### Write queries to extract key insights based on the following questions
+#### retrieve the total number of customers from each region : 
+#### find the most popular subscription type by the number of customers.
+#### find customers who canceled their subscription within 6 months. 
+#### calculate the average subscription duration for all customers. 
+#### find customers with subscriptions longer than 12 months. 
+#### calculate total revenue by subscription type. 
+#### find the top 3 regions by subscription cancellations. 
+#### find the total number of active and canceled subscriptions.
 ### Capstone CusomerData Analysis: Power BI
 #### Build a Power BI dashboard that visualizes key customer segments, cancellations, and subscription trends. Include slicers for interactive analysis:
 <img width="718" alt="customer report_power" src="https://github.com/user-attachments/assets/819e22f3-ed6a-4d54-af85-8d1655a28797">
